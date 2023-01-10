@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi :wave:, I'm Matt
+
+I'm a software engineer at the **[Met Office](https://github.com/MetOffice)** and member of a team of DevSecOps professionals who help to provide our UK responder community with the tools and software they need to help protect lives and keep people safe. I'm passionate about serverless micro-architectures, CI/CD and thoughtful UI design. 
 
 <!--
 **mfarrow701/mfarrow701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
